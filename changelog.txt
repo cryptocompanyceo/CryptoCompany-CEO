@@ -10,7 +10,7 @@
 • Changed marking of land plots
 • Ocean water according to the render pipeline
 • Antennas and boxes on H1 roof
-• New lanterns ot harbour area
+• New lanterns harbour area
 • Bank building test integration
 • Loading text on game start integrated
 
