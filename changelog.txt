@@ -1,5 +1,6 @@
 0.0.7.0 / 2023-06-21
 
+• Rotator on race track added
 • Car camera edited
 • Uphill Dollar Drive mission added
 
