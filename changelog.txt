@@ -1,10 +1,14 @@
-0.0.7.0 / 2023-06-21
+0.0.7.0 / 2023-06-22 / Internal
 
+• Using the correct user image
+• More cars added
+• Car speedometer repositioned
 • Rotator on race track added
 • Car camera edited
 • Uphill Dollar Drive mission added
+• Bigger countdown display
 
-0.0.6.0 / 2022-11-23 / For internal test use
+0.0.6.0 / 2022-11-23 / Internal test use
 
 • Building for @GunsAndBuns and @CCNewsFlash included
 • Smaller parking tower
