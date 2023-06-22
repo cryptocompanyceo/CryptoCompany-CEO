@@ -1,6 +1,6 @@
 0.0.7.0 / 2023-06-21
 
-• Edit car camera: car stays closer + camera follows x axis
+• Car camera edited
 • Uphill Dollar Drive mission added
 
 0.0.6.0 / 2022-11-23 / For internal test use
