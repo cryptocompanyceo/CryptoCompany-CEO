@@ -1,17 +1,20 @@
 0.0.7.0 / 2023-06-22 / Internal
 
-• PLUS: Uphill Dollar Drive mission added
-• PLUS: More cars added
-• PLUS: Rotator on race track added
+ADDED:
+• Uphill Dollar Drive mission
+• Car Andra in black
+• Rotator on race track
 
-• EDIT: Smartphone doubled to 200x
-• EDIT: Car speedometer repositioned
-• EDIT: Car camera edited
-• EDIT: Bigger countdown display
+EDITED:
+• Smartphone doubled to 200x
+• Car speedometer repositioned
+• Car camera edited
+• Bigger countdown display
 
-• BUGFIX: Using the correct user image
-• BUGFIX: Smartphone render distance increased to 3000 m
-• BUGFIX: Can't leave car during menu panel open
+FIX:
+• Using the correct user image
+• Smartphone render distance increased to 3000 m
+• Can't leave car during menu panel open
 
 0.0.6.0 / 2022-11-23 / Internal test use
 
