@@ -12,6 +12,7 @@ EDITED:
 • Bigger countdown display
 
 FIX:
+• Zeppelin back on track
 • Using the correct user image
 • Smartphone render distance increased to 3000 m
 • Can't leave car during menu panel open
