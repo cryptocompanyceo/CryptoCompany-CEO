@@ -1,3 +1,8 @@
+0.0.8.0 / 2023-06-25 / Internal
+
+ADDED:
+• Update mechanism
+
 0.0.7.0 / 2023-06-22 / Internal
 
 ADDED:
