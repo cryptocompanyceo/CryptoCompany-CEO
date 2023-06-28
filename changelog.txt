@@ -1,9 +1,18 @@
+0.0.10.0 / 2023-06-28 / Internal
+
+EDITED:
+• Screen recorder turned off in WebGL version
+• Beta Menu Panel removed
+
+FIX:
+• Camera swipe when receipe is known is back
+
 0.0.9.0 / 2023-06-27 / Internal
 
 EDITED:
 • Pole collider added to street banners
 • Flattened a few stones
-• Text edited on Beta Panel.
+• Text edited on Beta Menu Panel
 
 0.0.8.0 / 2023-06-26 / Internal
 
