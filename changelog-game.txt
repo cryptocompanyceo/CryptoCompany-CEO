@@ -1,4 +1,4 @@
-0.0.10.0 / 2023-06-28 / Internal
+0.0.10.0 / 2023-06-28
 
 EDITED:
 • Screen recorder turned off in WebGL version
