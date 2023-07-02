@@ -1,4 +1,6 @@
 0.2.0 / 2023-07-02
 
-- General clean up before publishing
-- Access code field introduced
+• General clean up before publishing
+• Access code field introduced
+
+Start tracking
