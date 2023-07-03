@@ -1,3 +1,7 @@
+0.3.0 / 2023-07-03
+
+• Postings with #cryptocompany added to the start page
+
 0.2.0 / 2023-07-02
 
 • General clean up before publishing
