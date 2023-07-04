@@ -1,3 +1,7 @@
+0.4.0 / 2023-07-04
+
+• Display of reward pool added to https://app.cryptocompany.ceo/rankings.php
+
 0.3.0 / 2023-07-03
 
 • Postings with #cryptocompany added to the start page
