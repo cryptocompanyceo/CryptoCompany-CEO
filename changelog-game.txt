@@ -5,6 +5,7 @@ ADDED:
 • "Quit Mission?" panel when player in mission and try to leave car
 
 FIX:
+• UI labels for locations/missions now show the correct location when player is in vehicle
 • Cars easier accessible: OnColliderStay instead OnColliderEnter used
 
 0.0.10.0 / 2023-06-28
