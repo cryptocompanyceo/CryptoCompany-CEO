@@ -4,6 +4,9 @@ ADDED:
 • "Quit Mission?" panel when player in mission and try to get to the game menu
 • "Quit Mission?" panel when player in mission and try to leave car
 
+FIX:
+• Cars easier accessible: OnColliderStay instead OnColliderEnter used
+
 0.0.10.0 / 2023-06-28
 
 EDITED:
