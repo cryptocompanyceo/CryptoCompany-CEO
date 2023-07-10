@@ -1,6 +1,7 @@
 0.0.11.0./ 2023-07-10
 
 ADDED:
+• Respawn mechanism when you press button
 • "Quit Mission?" panel when player in mission and try to get to the game menu
 • "Quit Mission?" panel when player in mission and try to leave car
 
