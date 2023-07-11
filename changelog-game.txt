@@ -1,6 +1,7 @@
 0.0.12.0. / 2023-07-10
 
 EDITED:
+• Car spawn rotation for mission 10 (Turbo Track) now orientated
 • Spawnpoints now invisible during game
 
 0.0.11.0. / 2023-07-10
