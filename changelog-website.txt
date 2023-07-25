@@ -2,7 +2,6 @@
 
 • Display of blog articles on start page repaired when there is no article image
 
-
 0.6.0 / 2023-07-06
 
 • Optical improvement at https://app.cryptocompany.ceo/rankings.php
