@@ -1,3 +1,17 @@
+0.0.14.0. / 2023-10-09
+
+ADDED:
+• Ships
+• Clothing for the character
+• Better car motor SFX
+• Ambient sounds for the water on main island and city ambience
+• SFX for Bro Bang mini game
+
+FIXED:
+• Mesh collider of Bro Tower fixed
+• Cam for start screen stops turning when no longer needed
+• Start song hearable only at position of start screen cam
+
 0.0.13.0. / 2023-07-13
 
 ADDED:
