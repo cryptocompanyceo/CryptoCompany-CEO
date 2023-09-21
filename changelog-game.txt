@@ -1,3 +1,13 @@
+0.0.15.0. / 2023-09-21
+
+ADDED:
+• Rims and nitro items included
+• 99ers Lodge
+• Conference area in the HiQ Tower
+• @WackyWracks
+• @CCTuning shop interiour
+• Camera demo tour
+
 0.0.14.0. / 2023-09-10
 
 ADDED:
