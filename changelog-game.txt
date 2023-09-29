@@ -1,5 +1,8 @@
 0.0.20.0. / 2023-09-29
 
+FIXED:
+• Fallback of Y = 0 at Altitude Distance Calculator
+
 REMOVED:
 • Removal of Photon network completed
 • Unneeded scenes deleted
