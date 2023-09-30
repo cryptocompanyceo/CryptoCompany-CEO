@@ -1,5 +1,8 @@
 0.0.20.0. / 2023-09-29
 
+ADDED:
+• First monster truck test track
+
 FIXED:
 • UI display removed at game startup for altitude and lap time
 • Fallback of Y = 0 at Altitude Distance Calculator
