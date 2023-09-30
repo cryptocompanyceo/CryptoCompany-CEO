@@ -1,6 +1,10 @@
 0.0.21.0. / 2023-09-30
 
+ADDED:
+• Bro Bang: Piston sounds added to spawn waves
+
 FIXED:
+• Bro Bang game loop scripts simplified
 • Gear & spead ratio on car-001 (+ variants)
 • Ghost model for Turbo Track fixed
 • Fallback on item/object repawn if no particles are assigned
