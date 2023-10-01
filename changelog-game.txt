@@ -1,3 +1,8 @@
+0.0.22.0. / 2023-10-01
+
+FIXED:
+• Cleaned up camera, player and mouse toggle behaviour
+
 0.0.21.0. / 2023-09-30
 
 ADDED:
