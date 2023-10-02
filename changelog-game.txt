@@ -1,6 +1,7 @@
 0.0.23.0. / 2023-10-02
 
 FIXED:
+• Mirror position on monster truck
 • Cleaned up menu, player/vehicle and mouse toggle behaviour
 • Missing truck gearing
 
