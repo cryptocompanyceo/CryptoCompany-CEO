@@ -1,3 +1,9 @@
+0.0.23.0. / 2023-10-02
+
+FIXED:
+• Cleaned up menu, player/vehicle and mouse toggle behaviour
+• Missing truck gearing
+
 0.0.22.0. / 2023-10-01
 
 FIXED:
