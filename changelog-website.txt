@@ -1,6 +1,6 @@
-0.8.0 / 2023-07-25
+0.8.0 / 2023-10-03
 
-• Data processing of Bro Bang mini game
+• Data processing & display rankings of Bro Bang mini game
 
 0.7.0 / 2023-07-25
 
