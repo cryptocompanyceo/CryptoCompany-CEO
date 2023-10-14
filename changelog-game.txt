@@ -5,6 +5,7 @@ ADDED:
 • Sign & entry for the Arcade Hall
 
 FIXED:
+• "No car" missions aren't longer available from within a car
 • Movement of cars in Aggreator elevator now smoove
 
 0.0.28.0. / 2023-10-12
