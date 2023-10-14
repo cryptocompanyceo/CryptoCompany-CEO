@@ -1,3 +1,17 @@
+0.0.29.0. / 2023-10-13
+
+ADDED:
+• Advanced steering of cars during airtime
+• Sign & entry for the Arcade Hall
+
+FIXED:
+• Movement of cars in Aggreator elevator now smoove
+
+0.0.28.0. / 2023-10-12
+
+ADDED:
+• Police car has blinking lights
+
 0.0.27.0. / 2023-10-11
 
 FIXED:
