@@ -5,6 +5,7 @@ ADDED:
 • Sign & entry for the Arcade Hall
 
 FIXED:
+• Rotation of cars at respawn points corrected
 • "No car" missions aren't longer available from within a car
 • Movement of cars in Aggreator elevator now smoove
 
