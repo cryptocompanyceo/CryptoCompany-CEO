@@ -1,7 +1,10 @@
-0.0.29.0. / 2023-10-14
+0.0.30.0. / 2023-10-14
 
 ADDED:
 • Advanced ParticleSystems on vehicle exhausts
+
+CHANGED:
+• speedLines on cars appear beginning at 100 km/h
 
 
 0.0.29.0. / 2023-10-13
