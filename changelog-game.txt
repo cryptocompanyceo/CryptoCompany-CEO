@@ -3,6 +3,7 @@
 ADDED:
 • Autoball
 • More Clothing
+• Mode ambient details all over
 
 EDIT:
 • curb problems on race track solved
