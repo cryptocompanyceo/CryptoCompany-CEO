@@ -1,6 +1,7 @@
 0.0.33.0 / 2023-11-03
 
 ADDED:
+• Interior fittings in lodge 1 at university
 • All live lights can be deactivated in the menu
 
 0.0.32.0 / 2023-11-02
