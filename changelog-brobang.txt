@@ -1,0 +1,8 @@
+0.5.8 / 2023-12-07
+
+FIX: items glow when pointer over
+
+0.5.7 / 2023-12-07
+
+
+First public release in beta & test mode
