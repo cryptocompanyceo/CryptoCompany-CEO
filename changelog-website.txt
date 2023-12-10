@@ -1,3 +1,7 @@
+0.11.0 / 2023-12-10
+
+- CCCEO logo added to media materials
+
 0.10.0 / 2023-12-08
 
 - Included Bro Bang
