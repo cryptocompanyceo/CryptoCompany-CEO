@@ -1,5 +1,6 @@
 0.5.9 / 2023-12-13
 
+CHANGE: "BANG", BING" and "BONG" text lifetime from two to one second
 FIX: lights on ceiling reset during game restart
 
 0.5.8 / 2023-12-07
