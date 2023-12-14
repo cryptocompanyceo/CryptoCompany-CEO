@@ -15,5 +15,4 @@ ADDED: more obvious reboot mechanism after game
 
 0.5.7 / 2023-12-07
 
-
 First public release in beta & test mode
