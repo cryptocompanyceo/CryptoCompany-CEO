@@ -1,6 +1,6 @@
 0.6.0 / 2023-12-14
 
-CHANGE: Login data used from website, if user is logged in
+// CHANGE: Login data used from website, if user is logged in
 
 0.5.9 / 2023-12-13
 
