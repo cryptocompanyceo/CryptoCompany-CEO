@@ -1,3 +1,7 @@
+0.6.0 / 2023-12-14
+
+CHANGE: Login data used from website, if user is logged in
+
 0.5.9 / 2023-12-13
 
 CHANGE: "BANG", BING" and "BONG" text lifetime from two to one second
