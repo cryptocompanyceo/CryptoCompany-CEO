@@ -1,3 +1,11 @@
+0.6.2 / 2023-12-16
+
+BUGFIX: problem at spawning pins: https://peakd.com/@bitandi/re-brobang-s5nq94
+
+0.6.1 / 2023-12-15
+
+CHANGE: Login data used from website, if user is logged in
+
 0.6.0 / 2023-12-14
 
 // CHANGE: Login data used from website, if user is logged in
