@@ -1,6 +1,6 @@
 <h1>Terms of use for games from CryptoCompany CEO</h1>
-Last updated: 9. January 2024
-<hr>
+Last updated: 9. January 2024<br>
+<br>
 <p>Please read these Terms of Use ("Terms", "Terms of Use") carefully before using any games, including but not limited to "Bro Bang", ("Game" or "Games") created by CryptoCompany CEO ("Provider", "We", "Us").</p>
 
 <h2>1. Consent</h2>
