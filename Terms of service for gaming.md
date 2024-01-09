@@ -31,7 +31,7 @@ Last updated: 9. January 2024
 
 <p>(c) The Provider accepts no liability for any losses arising from the unavailability of the Game, including but not limited to lost profits, loss of data or other financial or immaterial losses.</p>
 
-<h2>6. No investment advice or subject matter
+<h2>6. No investment advice or subject matter</h2>
 
 <p>(a) The game "Bro Bang" is for entertainment purposes only. Any information in the game or on the platform should not be interpreted as financial advice.</p>
 
